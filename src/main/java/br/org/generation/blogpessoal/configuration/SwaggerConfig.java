@@ -25,12 +25,12 @@ public class SwaggerConfig {
 						.name("Generation Brasil")
 						.url("https://brazil.generation.org/"))
 				.contact(new Contact()
-						.name("Conteudo Generation")
-						.url("https://github.com/conteudoGeneration")
-						.email("conteudogeneration@gmail.com")))
+						.name("Igor Santos")
+						.url("https://www.linkedin.com/in/igor-santos-8a6374189/")
+						.email("igor.ox13@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 						.description("Github")
-						.url("https://github.com/conteudoGeneration/"));
+						.url("https://github.com/Igorss4/"));
 	}
 	
 	@Bean
