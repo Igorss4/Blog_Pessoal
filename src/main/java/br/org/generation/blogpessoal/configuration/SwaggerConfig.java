@@ -49,6 +49,7 @@ public class SwaggerConfig {
 				apiResponses.addApiResponse("404", createApiResponse("Objeto Não Encontrado!"));
 				apiResponses.addApiResponse("500", createApiResponse("Erro na Aplicação!"));
 				
+				
 			}));
 		};
 	}
