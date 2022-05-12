@@ -24,11 +24,11 @@ public class Postagem {
 	@GeneratedValue(strategy = GenerationType.IDENTITY) 
 	private Long id; 
 
-	@NotNull
+	
 	@Size(min = 5, max = 50, message = "O atributo título deve conter no mínimo 05 e no máximo 50 caracteres")
 	private String titulo; 
 
-	@NotNull
+	
 	@Size(min = 10, max = 1000, message = "O atributo texto deve conter no mínimo 10 e no máximo 1000 caracteres")
 	private String texto;
 	

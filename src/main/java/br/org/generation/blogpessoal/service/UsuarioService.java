@@ -12,7 +12,6 @@ import org.springframework.web.server.ResponseStatusException;
 import br.org.generation.blogpessoal.model.Usuario;
 import br.org.generation.blogpessoal.model.UsuarioLogin;
 import br.org.generation.blogpessoal.repository.UsuarioRepository;
-
 @Service
 public class UsuarioService {
 
