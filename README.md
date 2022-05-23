@@ -24,7 +24,9 @@ Link do Deploy: link
 </div>
 
 -Para criação do rojeto
+
 -Para teste de CRUD
+
 -Para integração de banco de dados
 
 ## Autores
