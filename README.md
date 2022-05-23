@@ -1,7 +1,7 @@
 
 # Projeto Blog Pessoal!
 
-Repositório criado para o Back-End do Blog Pessoal, instruido pela Generation.
+Repositório criado para o Back-End do Blog Pessoal.
 
 
 ## Deploy
@@ -19,11 +19,11 @@ Link do Deploy: link
    <img  alt="Postman" height="40" width="40" src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png"/>
 </div>
 
--Para criação do rojeto
+- [Spring](https://spring.io/tools) - Para criação do projeto
 
--Para teste de CRUD
+- [Postman](https://www.postman.com) - Para teste de API e CRUD
 
--Para integração de banco de dados
+- [MySQL](https://www.mysql.com) - Para integração de banco de dados
 
 ## Autores
 
