@@ -20,12 +20,9 @@ Link do Deploy: link
 ## Documentações das tecnologias utilizadas
 
 
-   <img align="right" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-   <img align="right" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
- - [ViteJS](https://vitejs.dev/) - Criação do projeto
- - [HeadlessUI](https://headlessui.dev/) - Acessibilidade
- - [TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss) - Estilização
- - [PhosphorIcons](https://phosphoricons.com/) - Icones
+   <img align="right" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/> 
+   <img align="right" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>  -Para criação do Projeto
+
 
 
 ## Autores
