@@ -1,43 +1,27 @@
 
-# FeedGet - NLW Return
+# Projeto Blog Pessoal!
 
-Repositório criado para acompanhar a trilha impulse da NLW Return, da rocketseat, que acontece entre 02/05/2022 e 06/05/2022
+Repositório criado para o Back-End do Blog Pessoal, instruido pela Generation.
 
-Projeto criado com o uso de React, ReactNative e NodeJS.
-
-
+Projeto criado com  Java, usando SpringTools, testes de CRUD feito em Postman e banco de dados MySQL.
 
 
-## Rodando localmente
 
-Clone o projeto
 
-```bash
-  git clone https://github.com/tjfaccipieri/nwlReturn-impulse.git
-```
+## Deploy
+ 
+Link do Deploy: link
 
-Entre no diretório do projeto
 
-```bash
-  cd nwlReturn-impulse
-```
 
-Instale as dependências
-
-```bash
-  npm install
-```
-
-Inicie o servidor
-
-```bash
-  npm run dev
-```
 
 
 
 ## Documentações das tecnologias utilizadas
 
+
+   <img align="right" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
+   <img align="right" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
  - [ViteJS](https://vitejs.dev/) - Criação do projeto
  - [HeadlessUI](https://headlessui.dev/) - Acessibilidade
  - [TailwindCSS](https://tailwindcss.com/docs/installation/using-postcss) - Estilização
